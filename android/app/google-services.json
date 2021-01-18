@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514474713822",
+    "project_id": "faq-page-943c0",
+    "storage_bucket": "faq-page-943c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514474713822:android:1d98406caf7c6fa464d84f",
+        "android_client_info": {
+          "package_name": "com.example.FAQ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514474713822-0b5umvfppu8bgjrqkruh0lin1r10dlaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdZPfmYIVVEomJ-mXWG9XN7aohpMRWcfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514474713822-0b5umvfppu8bgjrqkruh0lin1r10dlaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
